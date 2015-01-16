@@ -1,0 +1,18 @@
+
+.wrapper {
+    display: block;
+    margin: 80px;
+    width: 750px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#slider1 {
+    margin: 80px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
